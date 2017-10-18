@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yihaodian:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="yihaodian-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="yihaodian:war exploded" />
+    </root>
+  </artifact>
+</component>
